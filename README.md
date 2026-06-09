@@ -27,7 +27,7 @@
 1. Git clone chương trình
 
 ```bash
-git clone https://github.com/Sleepy2608/PTTKGT-Algorithms-Analysis-and-Design.git
+git clone https://github.com/Sleepy2608/Delivery-Route-Optimization-on-Maze.git
 ```
 2. Từ trang mục Code ở github chọn: Code -> Download ZIP
 ---
