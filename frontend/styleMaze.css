@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI";
+    background: rgb(123, 123, 123);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.top-controls {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.controls-box {
+    background: #2a2a40;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 6px;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+.canvas-container {
+    margin-top: 20px;
+}
+
+#mazeCanvas {
+    border: 3px solid #444;
+    background: black;
+    cursor: crosshair;
+}
